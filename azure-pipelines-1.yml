@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
- -elias
+ elias
 
 steps:
 - task: NodeTool@0
